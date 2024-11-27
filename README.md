@@ -47,4 +47,4 @@ In this project I used gesture sensor APDS9960.
 
 # DOC
 * Sparkfun sensor doc https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library
-* HSV_to_RGB conversion https://gist.github.com/hdznrrd/656996.js"
+* HSV_to_RGB conversion https://gist.github.com/hdznrrd/656996
